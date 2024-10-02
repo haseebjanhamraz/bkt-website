@@ -65,6 +65,71 @@ export default function Departments() {
             twitter: "bksf",
             instagram: "bksf",
         }
+    },
+    {
+        name: "Baacha Khan Educational Foundation - BKTEF",
+        image: "/amntv.png",
+        established: "2009",
+        description: "AMN TV is a web-based TV. Blah Blah ## Text is more important",
+        location: "Peshawar, Pakistan",
+        website: "#",
+        social: {
+            facebook: "bktef",
+            twitter: "bktef",
+            instagram: "bktef",
+        }
+    },
+    {
+        name: "Daily Shahbaz",
+        image: "/amntv.png",
+        established: "1930",
+        description: "AMN TV is a web-based TV. Blah Blah ## Text is more important",
+        location: "Peshawar, Pakistan",
+        website: "https://dailyshahbaz.com",
+        social: {
+            facebook: "dailyshahbaz",
+            twitter: "dailyshahbaz",
+            instagram: "dailyshahbaz",
+        }
+    },
+    {
+        name: "Pakhtoon",
+        image: "/pakhtoon.png",
+        established: "1928",
+        description: "AMN TV is a web-based TV. Blah Blah ## Text is more important",
+        location: "Peshawar, Pakistan",
+        website: "https://pakhtoonmagazine.com",
+        social: {
+            facebook: "pakhtoon1928",
+            twitter: "pakhtoon1928",
+            instagram: "pakhtoon1928",
+        }
+    },
+    {
+        name: "Bacha Khan Islamic Research Foundation",
+        image: "/amntv.png",
+        established: "1928",
+        description: "AMN TV is a web-based TV. Blah Blah ## Text is more important",
+        location: "Peshawar, Pakistan",
+        website: "#",
+        social: {
+            facebook: "pakhtoon1928",
+            twitter: "pakhtoon1928",
+            instagram: "pakhtoon1928",
+        }
+    },
+    {
+        name: "Radio Ghag",
+        image: "/ghag.png",
+        established: "1928",
+        description: "AMN TV is a web-based TV. Blah Blah ## Text is more important",
+        location: "Peshawar, Pakistan",
+        website: "#",
+        social: {
+            facebook: "pakhtoon1928",
+            twitter: "pakhtoon1928",
+            instagram: "pakhtoon1928",
+        }
     }
     ]
     return (
